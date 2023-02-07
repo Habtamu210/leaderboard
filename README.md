@@ -37,7 +37,7 @@
 
 # 📖 To-Do List <a name="about-project"></a>
 
-**To-Do List** is a simple TODO list application created using webpack
+**To-Do List** is a simple Leader board list application created using webpack
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -171,7 +171,7 @@ Feel free to check the [issues page](https://github.com/Habtamu210/leaderboard/i
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project, please provide a STAR in
-[Github project repository](https://github.com/Habtamu210/leaderboard )
+[Github project repository](https://github.com/Habtamu210/leaderboard)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
