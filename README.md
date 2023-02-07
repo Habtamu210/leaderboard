@@ -81,7 +81,7 @@ git - git should be installed in local machine. git is necessary for cloning thi
 
 Clone this repository to your desired folder:
 
-git clone https://github.com/Habtamu210/Awesome-es6
+git clone https://github.com/Habtamu210/leaderboard 
 
 ### Install
 
@@ -162,7 +162,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Habtamu210/To-do-list/issues).
+Feel free to check the [issues page](https://github.com/Habtamu210/leaderboard/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -171,7 +171,7 @@ Feel free to check the [issues page](https://github.com/Habtamu210/To-do-list/is
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project, please provide a STAR in
-[Github project repository](https://github.com/Habtamu210/To-do-list)
+[Github project repository](https://github.com/Habtamu210/leaderboard )
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
