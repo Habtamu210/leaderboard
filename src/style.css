@@ -15,7 +15,7 @@ body {
 header,
 main {
   background-color: #f1f1ff;
-  width: 71%;
+  width: 72%;
   min-width: 375px;
 }
 
@@ -23,7 +23,7 @@ main {
   display: flex;
   gap: 50px;
   margin-top: 32px;
-  margin-left: 50px;
+  margin-left: 52px;
 }
 
 header {
