@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f1f1ff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+header,
+main {
+  background-color: #f1f1ff;
+  width: 71%;
+  min-width: 375px;
+}
+
+main {
+  display: flex;
+  gap: 50px;
+  margin-top: 32px;
+  margin-left: 50px;
+}
+
+header {
+  margin-top: 80px;
+}
+
+.left-side,
+.right-side {
+  flex: 1;
+}
+
+.top-header {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 10px;
+  justify-content: space-between;
+}
+
+input {
+  margin: 10px;
+  margin-left: 0;
+  padding: 20px;
+  border: 1px solid #d0d0d0;
+  width: 100%;
+  font-size: 1.2rem;
+  color: #595a5b;
+  height: 40px;
+}
+
+button {
+  padding: 5px;
+  font-size: 1.2rem;
+  box-shadow: 5px 5px 3px #000;
+}
+
+button.submit {
+  float: right;
+}
+
+ul {
+  list-style: none;
+  border: 2px solid #111;
+}
+
+.score-result li {
+  height: 34px;
+  padding: 5px;
+}
+
+li:nth-of-type(even) {
+  background-color: #d4d4d4;
+}
