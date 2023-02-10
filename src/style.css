@@ -82,10 +82,10 @@ ul {
 }
 
 .score-list li {
-  height: 35px;
+  height: 32px;
   padding: 10px;
   display: flex;
-  gap: 15px;
+  gap: 14px;
   align-items: center;
 }
 
