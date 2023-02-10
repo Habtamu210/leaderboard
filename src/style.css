@@ -55,7 +55,7 @@ input {
 
 h1,
 h2 {
-  color: rgb(199, 169, 226);
+  color: blueviolet;
 }
 
 h1 {
@@ -63,7 +63,7 @@ h1 {
 }
 
 button {
-  background-color: rgb(199, 169, 226);
+  background-color: blueviolet;
   padding: 5px;
   font-size: 1.2rem;
   box-shadow: 5px 5px 3px #000;
@@ -99,12 +99,12 @@ li > span:last-child {
 }
 
 li:nth-of-type(even) {
-  background-color: rgb(199, 169, 226);
+  background-color: blueviolet;
   color: #f7f8f8;
 }
 
 .fa-trophy {
-  color: rgb(199, 169, 226);
+  color: blueviolet;
 }
 
 @media only screen and (min-width: 768px) {
