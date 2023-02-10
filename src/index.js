@@ -1,5 +1,5 @@
-import UI from './module/user.js';
-import Game from './module/game.js';
+import UI from './modules/UI.js';
+import Game from './modules/Games.js';
 import './style.css';
 
 const baseURL = 'https://us-central1-js-capstone-backend.cloudfunctions.net/api/';

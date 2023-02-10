@@ -1,32 +1,32 @@
-const result = [
+const scores = [
   {
-    name: 'Tize',
+    name: 'Abebe',
     score: 100,
   },
   {
-    name: 'Hana',
+    name: 'Sara',
     score: 20,
   },
   {
-    name: 'Alemu',
+    name: 'Ayele',
     score: 50,
   },
   {
-    name: 'Bina',
+    name: 'Lily',
     score: 78,
   },
   {
-    name: 'Maya',
+    name: 'Nael',
     score: 125,
   },
   {
-    name: 'Sina',
+    name: 'Frehiwot',
     score: 77,
   },
   {
-    name: 'Bohar',
+    name: 'Martha',
     score: 42,
   },
 ];
 // eslint-disable-next-line import/prefer-default-export
-export { result };
+export { scores };
