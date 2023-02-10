@@ -9,7 +9,7 @@ body {
   flex-direction: column;
   align-items: center;
   font-family: 'Poppins', sans-serif;
-  background-color: skyblue;
+  background-color: rgb(144, 240, 243);
 }
 
 header,
